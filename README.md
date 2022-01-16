@@ -1,0 +1,1 @@
+# UAS_Sistem-Cerdas-klasifikasi-hama-dengan-ANN
